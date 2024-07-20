@@ -45,3 +45,5 @@ showing the distribution of feature values before and after preprocessing.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+I lost 3 hours of my life because I didn't know I'd have to fork this repo. I don't have edit permissions on it. Many notes in ipynb.
